@@ -24,6 +24,7 @@
 #include "esp_event.h"
 #include "esp_log.h"
 #include "esp_netif.h"
+#include "ext_ntp.h"
 
 extern void ext_wifi_init(void);
 extern esp_err_t ext_wifi_connect(const char *ssid, const char *pass);

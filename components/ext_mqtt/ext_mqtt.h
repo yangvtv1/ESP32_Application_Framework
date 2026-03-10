@@ -17,6 +17,7 @@
 #include "mqtt_client.h"
 #include "esp_log.h"
 
+#include "ext_ntp.h"
 
 
 typedef struct{

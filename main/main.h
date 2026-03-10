@@ -15,6 +15,7 @@
 #include "ext_mqtt.h"
 #include "ext_wifi.h"
 #include "nvs_flash.h"
+#include "ext_gpio.h"
 
 
 

@@ -17,5 +17,6 @@ void app_main(void)
     ESP_LOGI(TAG, "[APP] LTH Group hello");
     Application.wifi.wifi_init();
 
-    Application.wifi.wifi_connect("Cao Cuong 2.","0967859714");
+    // Application.wifi.wifi_connect("Cao Cuong 2.","0967859714");
+    Application.wifi.wifi_connect("IoT Test 2","iotnami@2468");
 }
